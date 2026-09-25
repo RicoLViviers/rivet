@@ -157,10 +157,11 @@ Planned areas of development include:
 Rivet is still early in development, but contributions, package definitions, bug reports, and ideas are welcome.
 
 If you want to add a package, improve Rivet's package handling, or fix an issue, open an issue or pull request.
+You can find more info at [Contribution](CONTRIBUTING.md)
 
 ## License
 
-License information will be added as the project develops.
+The project is under the MIT license. [License](LICENSE).
 
 This readme was written by ai for short term and will be rewritten for the first release.
 
