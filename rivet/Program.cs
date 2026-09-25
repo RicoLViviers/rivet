@@ -4,6 +4,7 @@ using Rivet.Core.Registry;
 using System.Text.Json;
 
 PackageRegistry packageRegistry = new();
+CMakeGenerator cmakeGenerator = new();
 
 JsonSerializerOptions jsonOptions = new()
 {
@@ -164,8 +165,8 @@ async Task Add()
             Name = package.Name,
             Version = package.Version
         });
-
         SaveConfig(config);
+        cmakeGenerator.Generate(config);
 
         Console.WriteLine($"Added '{package.Name}' successfully.");
     }
@@ -253,6 +254,8 @@ async Task Install()
             $"Installed '{package.Name}' {dependency.Version} successfully."
         );
     }
+
+    cmakeGenerator.Generate(config);
 
     Console.WriteLine();
     Console.WriteLine("Installation complete.");
