@@ -1,0 +1,152 @@
+[
+  {
+    "name": "glfw",
+    "description": "Multi-platform library for creating windows, contexts and handling input",
+    "repository": "https://github.com/glfw/glfw.git",
+    "version": "3.5.1"
+  },
+  {
+    "name": "glm",
+    "description": "Header-only C++ mathematics library for graphics software",
+    "repository": "https://github.com/g-truc/glm.git",
+    "version": "1.0.1"
+  },
+  {
+    "name": "sdl",
+    "description": "Cross-platform development library for audio, input, graphics and window management",
+    "repository": "https://github.com/libsdl-org/SDL.git",
+    "version": "3.2.22"
+  },
+  {
+    "name": "imgui",
+    "description": "Immediate-mode graphical user interface library for C++",
+    "repository": "https://github.com/ocornut/imgui.git",
+    "version": "1.92.3"
+  },
+  {
+    "name": "assimp",
+    "description": "3D model and asset import library",
+    "repository": "https://github.com/assimp/assimp.git",
+    "version": "6.0.2"
+  },
+  {
+    "name": "entt",
+    "description": "Entity-component-system and general-purpose C++ library",
+    "repository": "https://github.com/skypjack/entt.git",
+    "version": "3.15.0"
+  },
+  {
+    "name": "bullet3",
+    "description": "Real-time collision detection and physics simulation library",
+    "repository": "https://github.com/bulletphysics/bullet3.git",
+    "version": "3.25"
+  },
+  {
+    "name": "jolt",
+    "description": "Multi-core friendly rigid body physics and collision detection library",
+    "repository": "https://github.com/jrouwe/JoltPhysics.git",
+    "version": "5.3.0"
+  },
+  {
+    "name": "openal-soft",
+    "description": "Cross-platform 3D audio implementation of OpenAL",
+    "repository": "https://github.com/kcat/openal-soft.git",
+    "version": "1.24.3"
+  },
+  {
+    "name": "miniaudio",
+    "description": "Single-file audio playback and capture library",
+    "repository": "https://github.com/mackron/miniaudio.git",
+    "version": "0.11.23"
+  },
+  {
+    "name": "stb",
+    "description": "Single-file libraries for image loading, fonts and other game development utilities",
+    "repository": "https://github.com/nothings/stb.git",
+    "version": "master"
+  },
+  {
+    "name": "tinyobjloader",
+    "description": "Lightweight Wavefront OBJ model loader",
+    "repository": "https://github.com/tinyobjloader/tinyobjloader.git",
+    "version": "2.0.0"
+  },
+  {
+    "name": "tinygltf",
+    "description": "Header-only glTF 2.0 model loading and writing library",
+    "repository": "https://github.com/syoyo/tinygltf.git",
+    "version": "2.9.6"
+  },
+  {
+    "name": "freetype",
+    "description": "Font rendering library",
+    "repository": "https://github.com/freetype/freetype.git",
+    "version": "2.14.1"
+  },
+  {
+    "name": "spdlog",
+    "description": "Fast C++ logging library",
+    "repository": "https://github.com/gabime/spdlog.git",
+    "version": "1.15.3"
+  },
+  {
+    "name": "fmt",
+    "description": "Modern C++ text formatting library",
+    "repository": "https://github.com/fmtlib/fmt.git",
+    "version": "11.2.0"
+  },
+  {
+    "name": "json",
+    "description": "JSON library for modern C++",
+    "repository": "https://github.com/nlohmann/json.git",
+    "version": "3.12.0"
+  },
+  {
+    "name": "yaml-cpp",
+    "description": "YAML parser and emitter for C++",
+    "repository": "https://github.com/jbeder/yaml-cpp.git",
+    "version": "0.8.0"
+  },
+  {
+    "name": "box2d",
+    "description": "2D physics engine for games",
+    "repository": "https://github.com/erincatto/box2d.git",
+    "version": "3.1.1"
+  },
+  {
+    "name": "sol2",
+    "description": "C++ binding library for embedding Lua",
+    "repository": "https://github.com/ThePhD/sol2.git",
+    "version": "3.5.0"
+  },
+  {
+    "name": "lua",
+    "description": "Lightweight scripting language commonly embedded in game engines",
+    "repository": "https://github.com/lua/lua.git",
+    "version": "5.4.8"
+  },
+  {
+    "name": "meshoptimizer",
+    "description": "Mesh optimization library for real-time rendering",
+    "repository": "https://github.com/zeux/meshoptimizer.git",
+    "version": "0.24"
+  },
+  {
+    "name": "recastnavigation",
+    "description": "Navigation mesh generation and pathfinding library",
+    "repository": "https://github.com/recastnavigation/recastnavigation.git",
+    "version": "1.6.0"
+  },
+  {
+    "name": "enet",
+    "description": "Reliable UDP networking library suitable for multiplayer games",
+    "repository": "https://github.com/lsalzman/enet.git",
+    "version": "1.3.18"
+  },
+  {
+    "name": "catch2",
+    "description": "Modern C++ unit testing framework",
+    "repository": "https://github.com/catchorg/Catch2.git",
+    "version": "3.11.0"
+  }
+]
