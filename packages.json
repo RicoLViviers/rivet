@@ -1,0 +1,9 @@
+[
+  {
+    "name": "glfw",
+    "description": "Multi-platform library for OpenGL",
+    "repository": "https://github.com/glfw/glfw.git",
+    "version": "3.5.1"
+  }
+
+]
