@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Rivet.Core/Rivet.Core.csproj" Id="64c200f0-4f52-48d7-b950-1c2fe8aa6394" />
   <Project Path="rivet/rivet.csproj" />
 </Solution>
