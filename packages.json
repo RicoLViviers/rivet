@@ -12,6 +12,12 @@
     "version": "1.0.1"
   },
   {
+    "name": "glad",
+    "description": "OpenGL loader generator and loading library",
+    "repository": "https://github.com/Dav1dde/glad.git",
+    "version": "2.0.8"
+  },
+  {
     "name": "sdl",
     "description": "Cross-platform development library for audio, input, graphics and window management",
     "repository": "https://github.com/libsdl-org/SDL.git",
